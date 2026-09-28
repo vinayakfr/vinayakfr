@@ -45,7 +45,7 @@ public class Vinayak {
 ### 🛠️ Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,python,react,nextjs,tailwind,nodejs,express,spring,supabase,git,github,vercel,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,python,react,nextjs,tailwind,nodejs,express,spring,supabase,git,github,vercel,figma,aws&perline=8" />
 </p>
 
 ---
